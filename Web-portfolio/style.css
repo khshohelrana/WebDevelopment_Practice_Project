@@ -1,0 +1,85 @@
+h1{
+    font: size 100px; 
+    
+    }
+ 
+
+body {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin: 0%;
+}
+.first{
+
+    color: goldenrod;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+   margin-top: 2%;
+    padding-left: 2%;
+    
+    
+}
+.half-width img{
+    width: 100%;
+    
+}
+
+section{
+    height: 500px ;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+}
+.forth-half{
+    margin-left: -5%
+}
+.dreame-area{
+   background-image: url(images/dream-bg.png);
+   background-position: right;
+}
+.second-img{
+    margin-left: -50%
+}
+.experinece-area{
+    background-image: none;
+}
+.expertice{
+    text-align: center;
+    background-color: azure;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.single-exp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 70%;
+   border-right: 7px solid;
+}
+.single-exp2{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    height: 70%;
+    border-left: 7px solid;
+}
+
